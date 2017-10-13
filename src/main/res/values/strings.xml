@@ -17,4 +17,8 @@
     <string name="title_activity_launch">LaunchActivity</string>
     <string name="campany_name">精伦电气有限公司</string>
     <string name="system_name">用电稽查系统</string>
+    <string name="title">标题</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+    <string name="update">更新</string>
 </resources>

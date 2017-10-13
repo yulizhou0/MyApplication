@@ -27,6 +27,10 @@
             android:name=".ativity.LoginActivity"
             android:label="@string/title_activity_launch"
             android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".ativity.DataImportActivity"
+            android:label="@string/title_activity_launch"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
